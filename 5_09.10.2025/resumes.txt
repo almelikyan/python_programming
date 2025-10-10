@@ -1,0 +1,74 @@
+Имя: Иван Иванов
+Возраст: 29
+Навыки: Python, SQL, Data Analysis
+Опыт (лет): 5
+
+Имя: Анна Смирнова
+Возраст: 35
+Навыки: HR, Recruitment, Team Management
+Опыт (лет): 10
+
+Имя: Сергей Петров
+Возраст: 41
+Навыки: Java, Spring, SQL, Docker
+Опыт (лет): 15
+
+Имя: Ольга Кузнецова
+Возраст: 26
+Навыки: Excel, HR Analytics, Power BI
+Опыт (лет): 3
+
+Имя: Дмитрий Соколов
+Возраст: 32
+Навыки: Python, Machine Learning, Deep Learning, SQL
+Опыт (лет): 7
+
+Имя: Мария Фролова
+Возраст: 38
+Навыки: Project Management, Agile, Scrum, Jira
+Опыт (лет): 12
+
+Имя: Алексей Николаев
+Возраст: 45
+Навыки: C++, Embedded Systems, Linux, Networking
+Опыт (лет): 20
+
+Имя: Екатерина Орлова
+Возраст: 28
+Навыки: UI/UX Design, Figma, Photoshop, Illustrator
+Опыт (лет): 6
+
+Имя: Павел Морозов
+Возраст: 33
+Навыки: DevOps, Kubernetes, Docker, CI/CD
+Опыт (лет): 9
+
+Имя: Наталья Лебедева
+Возраст: 30
+Навыки: HR, Coaching, Conflict Management, Training
+Опыт (лет): 8
+
+Имя: Виктор Андреев
+Возраст: 36
+Навыки: Data Engineering, Spark, Hadoop, SQL
+Опыт (лет): 11
+
+Имя: Светлана Васильева
+Возраст: 27
+Навыки: Content Marketing, SMM, SEO, Copywriting
+Опыт (лет): 4
+
+Имя: Константин Егоров
+Возраст: 42
+Навыки: Enterprise Architecture, TOGAF, IT Strategy
+Опыт (лет): 18
+
+Имя: Елена Попова
+Возраст: 31
+Навыки: QA, Test Automation, Selenium, Python
+Опыт (лет): 7
+
+Имя: Михаил Козлов
+Возраст: 39
+Навыки: Product Management, Analytics, A/B Testing
+Опыт (лет): 13
